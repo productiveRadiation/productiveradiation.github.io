@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+    <channel>
+        <title>Productive Radiation</title>
+        <link>https://productiveradiation.github.io/</link>
+        <description>Blog RSS feed for Productive Radiation.</description>
+        <lastBuildDate>Sat, 21 May 2022 18:33 GMT</lastBuildDate>
+        <category>Video Games</category>
+        <item>
+            <title>Congratulations, you won!</title>
+            <link>https://productiveradiation.github.io/</link>
+            <author>ocfrommakestuff@hotmail.com</author>
+            <pubDate>Sat, 21 May 2022 18:33 GMT</pubDate>
+            <description>After a day and a half of work, this website is NOW UP and has an RSS FEED. Everyone clap your hands, this news is amazing. - ocfrom</description>
+        </item>
+    </channel>
+</rss>
