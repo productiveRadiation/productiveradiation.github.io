@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 
     <channel>
+        <atom:link href="https://productiveradiation.github.io/rss.xml" rel="self" type="application/rss+xml" />
         <title>Productive Radiation</title>
         <link>https://productiveradiation.github.io/</link>
         <description>Blog RSS feed for Productive Radiation.</description>
@@ -9,17 +10,19 @@
         <category>Video Games</category>
         <item>
             <title>Test</title>
-            <link>https://productiveradiation.github.io/</link>
-            <author>ocfrommakestuff@hotmail.com</author>
-            <pubDate>Mon, 23 May 2022 16:00:00 -0000</pubDate>
             <description>Just another test.</description>
+            <link>https://productiveradiation.github.io/</link>
+            <author>ocfrommakestuff@hotmail.com (ocfrom)</author>
+            <pubDate>Mon, 23 May 2022 16:00:00 -0000</pubDate>
+            <guid>https://productiveradiation.github.io/</guid>
         </item>
         <item>
             <title>Congratulations, you won!</title>
             <link>https://productiveradiation.github.io/</link>
-            <author>ocfrommakestuff@hotmail.com</author>
-            <pubDate>Sat, 21 May 2022 01:00:00 -0000</pubDate>
             <description>After a day and a half of work, this website is NOW UP and has an RSS FEED. Everyone clap your hands, this news is amazing. - ocfrom</description>
+            <author>ocfrommakestuff@hotmail.com (ocfrom)</author>
+            <pubDate>Sat, 21 May 2022 01:00:00 -0000</pubDate>
+            <guid>https://productiveradiation.github.io/</guid>
         </item>
     </channel>
 </rss>
