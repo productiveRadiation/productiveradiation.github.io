@@ -1,14 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss>
     <channel>
-        <description>Now in ultraviolent edition.</description>
+        <title>Productive Radiation</title>
         <link>https://productiveradiation.github.io/</link>
+        <description>Now in ultraviolent edition.</description>
+        <language>en</language>
+
+
         <item>
-            <title>Again, testing.</title>
-            <description>Test description.</description>
+            <title>Item 1</title>
             <link>https://productiveradiation.github.io/</link>
-            <guid>https://productiveradiation.github.io/</guid>
-            <pubDate>Mon, 23 May 2022 17:48:00 -0600</pubDate>
+            <description>Item 1.</description>
+            <author>ocfrommakesstuff@hotmail.com (Ocfrom)</author>
+            <pubDate>23 May 2022 18:23:00 -0600</pubDate>
         </item>
+
+
+
+
     </channel>
 </rss>
