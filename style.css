@@ -3,6 +3,16 @@
     color: white;
 }
 
+.main {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.social1 {
+    margin-left: auto;
+    margin-right: auto; 
+}
+
 hr {
     color: rgb(156, 0, 0);
 }
