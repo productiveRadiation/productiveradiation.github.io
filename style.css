@@ -3,28 +3,33 @@
     color: white;
 }
 
-.main {
-    margin-left: auto;
-    margin-right: auto;
-}
-
-.social1 {
-    margin-left: auto;
-    margin-right: auto; 
-}
-
 hr {
-    color: rgb(156, 0, 0);
+    color: #9c0000;
 }
 
 body {
     background-image: url(img/banner.png);
-    background-color: black;
+    background-color: #2d2d2d;
     background-repeat: repeat-x;
 }
 
+.main { 
+    margin: auto;
+}
+
 #box {
-    background-color: rgb(90, 90, 90);
-    border: 3px solid rgb(156, 0, 0);
+    background-color: #5a5a5a; 
+    /*background-color: #7c7c7c; too bright, hurts my eyes. -ocfrom*/ 
+    border: 3px solid #9c0000;
     padding: 5px;
+}
+
+#img {
+    margin: auto;
+    display: block;
+}
+
+#promotedthing {
+    float: right;
+    margin-right: 1%;
 }
