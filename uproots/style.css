@@ -7,7 +7,7 @@ body {
     cursor: url(img/cursor.png), auto;
     background-image: url(back.png);
     background-repeat: no-repeat;
-    background-attachment: local;
+    background-attachment: fixed;
     background-size: cover;
 }
 
@@ -23,7 +23,7 @@ a {
 .box {
     width: 804px;
     background-color: #556b2f;
-    border: 2.5px solid #243010;
+    border: 3.5px solid #243010;
     padding: 5px;
     margin: auto;
 }
