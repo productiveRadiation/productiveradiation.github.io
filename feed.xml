@@ -7,6 +7,14 @@
         <language>en</language>
         <atom:link href="https://productiveradiation.github.io/feed.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title>News Roundup</title>
+            <link>https://productiveradiation.github.io/</link>
+            <description>Quite a few things happened during this week, so here's the scoop! I've finally finished the website redesign. It took like, two days. I noticed the website...</description>
+            <author>ocfrommakesstuff@hotmail.com (Ocfrom)</author>
+            <pubDate>07 June 2022 19:46:00 -0500</pubDate>
+            <guid>https://productiveradiation.github.io/</guid>
+        </item>
+        <item>
             <title>Added Cosmo Setter to the website</title>
             <link>https://productiveradiation.github.io/</link>
             <image>
