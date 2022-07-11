@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Productive Radiation</title>
+        <link>https://productiveradiation.github.io/</link>
+        <description>Now in ultraviolent edition.</description>
+        <language>en</language>
+        <atom:link href="https://productiveradiation.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title>Productive Radiation Redesign</title>
+            <link>https://productiveradiation.github.io/news/2022/07/productive-radiation-redesign.html</link>
+            <description>I just finished the redesign of the Productive Radiation website. I'm very pleased with the new coat of paint and it will surely never change in the future.</description>
+            <author>ocfrommakesstuff@hotmail.com (Ocfrom)</author>
+            <pubDate>10 July 2022 18:41:00 -0500</pubDate>
+            <guid>https://productiveradiation.github.io/news/2022/07/productive-radiation-redesign.html</guid>
+        </item>
+        <item>
+            <title>Added Cosmo Setter to the website</title>
+            <link>https://productiveradiation.github.io/</link>
+            <image>
+                <url>https://ocfrom.neocities.org/blog/cosmosetter.png</url>
+                <title>Cosmo Setter</title>
+                <link>https://productiveradiation.github.io/</link>
+            </image>
+            <description>I've added the Cosmo Setter page on this website. The rest of Productive Radiation gave me the green-light to it. I might move the page to my own website if it confuses anyone.</description>
+            <author>ocfrommakesstuff@hotmail.com (Ocfrom)</author>
+            <pubDate>29 May 2022 10:15:00 -0500</pubDate>
+            <guid>https://productiveradiation.github.io/</guid>
+        </item>
+        <item>
+            <title>Item 1</title>
+            <link>https://productiveradiation.github.io/</link>
+            <description>Item 1.</description>
+            <author>ocfrommakesstuff@hotmail.com (Ocfrom)</author>
+            <pubDate>23 May 2022 18:23:00 -0600</pubDate>
+            <guid>https://productiveradiation.github.io/</guid>
+        </item>
+    </channel>
+</rss>

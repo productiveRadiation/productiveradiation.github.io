@@ -1,0 +1,25 @@
+* {
+    font-family: Georgia, Times New Roman, Times, serif;
+    color: #ffffff;
+}
+
+body {
+    background-color: #000000;
+    background-image: url(img/background.png);
+}
+
+hr {
+    color: #808080;
+}
+
+#box {
+    border: #B60202 3px ridge;
+    width: 720px;
+    margin: 25px;
+    padding: 5px;
+    background-color: #000000;
+}
+
+#license {
+    width: 820px;
+}
