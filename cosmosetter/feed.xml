@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Cosmo Setter</title>
+        <link>https://productiveradiation.github.io/cosmosetter/</link>
+        <description>RSS Feed of the Cosmo Setter website.</description>
+        <lastBuildDate>Mon, 25 July 2022 20:19:00 -0500</lastBuildDate>
+        <item>
+            <title>New Website Design and Game Information</title>
+            <description>Information the new website layout and Cosmo Setter.</description>
+            <link>https://productiveradiation.github.io/cosmosetter/articles.html</link>
+            <pubDate>Mon, 25 July 2022 20:19:00 -0500</pubDate>
+        </item>
+    </channel>
+</rss>
