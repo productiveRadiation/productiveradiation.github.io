@@ -1,12 +1,13 @@
 * {
-    font-family: Verdana;
     color: #ffffff;
-    font-size: 13px;
+}
+
+p, a, span, li {
+    font-size: 14px;
 }
 
 body {
     background-color: #000000;
-    background-image: url(img/background.png);
 }
 
 hr {

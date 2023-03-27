@@ -1,0 +1,10 @@
+* {
+    color: white;
+}
+
+p, a, ul, span {
+    font-size: 15px;
+}
+body {
+    background-image: url(img/back.gif);
+}
